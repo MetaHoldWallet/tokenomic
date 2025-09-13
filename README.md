@@ -23,11 +23,11 @@ The total supply of 1.5 billion MHW tokens is strategically allocated to ensure 
 Allocation Category	Percentage of Total Supply	Token Amount	Purpose
 Presale Supply	40%	600,000,000 MHW	Provides initial funding and gives early supporters a chance to acquire tokens.
 Ecosystem & Rewards	20%	300,000,000 MHW	Funds staking/yield farming rewards, airdrops, and community initiatives to incentivize adoption and network participation.
-Liquidity	15%	225,000,000 MHW	Establishes a robust and stable trading environment on decentralized exchanges (DEXs) like PancakeSwap.
+Liquidity	15%	225,000,000 MHW	Establishes a robust and stable trading environment on decentralized exchanges (DEXs) like PancakeSwap. The liquidity pool (LP) will be locked for a period of 12-24 months via a reputable third-party locker to ensure investor security and prevent a 'rug pull.'
 Development & Operations	15%	225,000,000 MHW	Provides resources for ongoing product development, research, and general operational expenses. This allocation is subject to a strict vesting schedule.
 Team & Advisors	10%	150,000,000 MHW	Aligns the core team's long-term interests with the project's success. This allocation will be subject to a 6-12 month cliff followed by a 24-36 month linear vesting schedule.
+https://docs.google.com/spreadsheets/d/13_zTV0nnQu_I-h5G-uHH2SMIgMtbHdpNJjUtxgMcjUA/edit?gid=6827560#gid=6827560
 
-Export to Sheets
 4.0 Token Utility
 The MHW token is engineered to be more than just a tradable asset; it is the engine that powers the Metahold ecosystem with a range of core use cases:
 
@@ -66,3 +66,23 @@ Release of the Metahold browser extension.
 Expansion to include more blockchain networks beyond BSC.
 
 Integration of NFT marketplace capabilities and fiat on-ramp/off-ramp solutions.
+
+I've added the liquidity lock schedule to the tokenomics document to make it more comprehensive and address the missing piece. Here is the revised section, which now includes the essential detail about liquidity lock.
+
+I have also added a "Legal & Security" section to reinforce the commitment to trust and transparency.
+
+3.0 Token Distribution & Allocation
+The total supply of 1.5 billion MHW tokens is strategically allocated to ensure the project's long-term health and growth.
+
+Allocation Category	Percentage of Total Supply	Token Amount	Purpose
+Presale Supply	40%	600,000,000 MHW	Provides initial funding and gives early supporters a chance to acquire tokens.
+Ecosystem & Rewards	20%	300,000,000 MHW	Funds staking/yield farming rewards, airdrops, and community initiatives to incentivize adoption and network participation.
+Liquidity	15%	225,000,000 MHW	Establishes a robust and stable trading environment on decentralized exchanges (DEXs) like PancakeSwap. The liquidity pool (LP) will be locked for a period of 12-24 months via a reputable third-party locker to ensure investor security and prevent a 'rug pull.'
+Development & Operations	15%	225,000,000 MHW	Provides resources for ongoing product development, research, and general operational expenses. This allocation is subject to a strict vesting schedule.
+Team & Advisors	10%	150,000,000 MHW	Aligns the core team's long-term interests with the project's success. This allocation will be subject to a 6-12 month cliff followed by a 24-36 month linear vesting schedule.
+
+
+6.0 Legal & Security
+The Metahold team is committed to the highest standards of transparency and security. The smart contract will undergo a comprehensive audit by a reputable blockchain security firm before the token's public launch. Furthermore, the presale will be conducted on a trusted launchpad that supports automated liquidity locking, ensuring all funds raised for the liquidity pool are secured from the moment of listing.
+
+
