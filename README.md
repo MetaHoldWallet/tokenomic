@@ -27,10 +27,10 @@ The total supply of 1.5 billion MHW tokens is strategically allocated to ensure 
 | Allocation Category | Percentage of Total Supply | Token Amount | Purpose |
 | :--- | :--- | :--- | :--- |
 | **Presale Supply** | 40% | 600,000,000 MHW | Provides initial funding and gives early supporters a chance to acquire tokens. |
-| **Ecosystem & Rewards** | 20% | 300,000,000 MHW | Funds staking/yield farming rewards, airdrops, and community initiatives to incentivize adoption and network participation. |
-| **Liquidity** | 15% | 225,000,000 MHW | Establishes a robust and stable trading environment on decentralized exchanges (DEXs) like PancakeSwap. The liquidity pool (LP) will be locked for a period of 12-24 months via a reputable third-party locker to ensure investor security and prevent a 'rug pull.' |
-| **Development & Operations** | 15% | 225,000,000 MHW | Provides resources for ongoing product development, research, and general operational expenses. This allocation is subject to a strict vesting schedule. |
-| **Team & Advisors** | 10% | 150,000,000 MHW | Aligns the core team's long-term interests with the project's success. This allocation will be subject to a 6-12 month cliff followed by a 24-36 month linear vesting schedule. |
+| **Ecosystem & Rewards** | 15% | 225,000,000 MHW | Funds staking/yield farming rewards, airdrops, and community initiatives to incentivize adoption and network participation. |
+| **Liquidity** | 20% | 300,000,000 MHW | Establishes a robust and stable trading environment on decentralized exchanges (DEXs) like PancakeSwap. The liquidity pool (LP) will be locked for a period of 12-24 months via a reputable third-party locker to ensure investor security and prevent a 'rug pull.' |
+| **Development & Operations** | 14% | 210,000,000 MHW | Provides resources for ongoing product development, research, and general operational expenses. This allocation is subject to a strict vesting schedule. |
+| **Team & Advisors** | 11% | 165,000,000 MHW | Aligns the core team's long-term interests with the project's success. This allocation will be subject to a 6-12 month cliff followed by a 24-36 month linear vesting schedule. |
 
 ---
 
